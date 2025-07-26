@@ -1,9 +1,9 @@
 imbalanced-learn==0.12.4
 joblib==1.4.2
-numpy==2.2.0
-scikit-learn==1.6.0
-scipy==1.14.1
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.13.1
 threadpoolctl==3.5.0
-streamlit
-pandas
-plotly
+streamlit==1.35.0
+pandas==2.2.2
+plotly==5.22.0
